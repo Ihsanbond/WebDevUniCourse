@@ -1,0 +1,25 @@
+body{
+    margin-top: 8rem;
+    font-family: 'Commissioner', sans-serif;
+}
+
+
+a:link {
+    color: purple;
+  }
+
+a:visited {
+    color: green;
+  }
+  
+a:hover {
+    color: rgb(58, 56, 56);
+  }
+  
+a:active {
+    color: blue;
+  }
+
+code {
+    width: 50%;
+}
